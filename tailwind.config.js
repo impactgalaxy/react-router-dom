@@ -14,6 +14,9 @@ module.exports = withMT({
       }
     },
   },
+  daisyui: {
+    themes: ["light", "synthwave"],
+  },
   plugins: [require("daisyui")],
 })
 
