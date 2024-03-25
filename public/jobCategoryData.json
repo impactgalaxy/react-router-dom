@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Software Engineer",
+        "img": "../src/assets/icons/accounts.png",
+        "description": "Responsible for designing, developing, and testing software applications and systems."
+    },
+    {
+        "title": "Mechanical Engineer",
+        "img": "../src/assets/icons/calendar.png",
+        "description": "Responsible for designing, developing, and testing software applications and systems."
+    },
+    {
+        "title": "Software Engineer",
+        "img": "../src/assets/icons/chip.png",
+        "description": "Responsible for designing, developing, and testing software applications and systems."
+    },
+    {
+        "title": "Web Developer",
+        "img": "../src/assets/icons/creative.png",
+        "description": "Designs and implements web applications, including front-end and back-end development."
+    }
+]

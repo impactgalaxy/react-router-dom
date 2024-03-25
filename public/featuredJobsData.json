@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Software Engineer",
+        "img": "../src/assets/logo/airbnb.png",
+        "description": "Responsible for designing, developing, and testing software applications and systems.",
+        "salary": "$80,000 - $120,000",
+        "location": "San Francisco, CA",
+        "job_hour": "Full Time",
+        "category": "Remote"
+    },
+    {
+        "id": 2,
+        "title": "Web Developer",
+        "img": "/src/assets/logo/CareerHub.png",
+        "description": "Designs and implements web applications, including front-end and back-end development.",
+        "salary": "$60,000 - $100,000",
+        "location": "New York, NY",
+        "job_hour": "Full Time",
+        "category": "Office"
+    },
+    {
+        "id": 3,
+        "title": "Software Engineer",
+        "img": "../src/assets/logo/google.png",
+        "description": "Responsible for designing, developing, and testing software applications and systems.",
+        "salary": "$80,000 - $120,000",
+        "location": "San Francisco, CA",
+        "job_hour": "Full Time",
+        "category": "Onsite"
+    },
+    {
+        "id": 4,
+        "title": "Web Developer",
+        "img": "/src/assets/logo/netflix.png",
+        "description": "Designs and implements web applications, including front-end and back-end development.",
+        "salary": "$60,000 - $100,000",
+        "location": "New York, NY",
+        "job_hour": "Full Time",
+        "category": "Remote"
+    },
+    {
+        "id": 5,
+        "title": "Software Engineer",
+        "img": "../src/assets/logo/tesla.png",
+        "description": "Responsible for designing, developing, and testing software applications and systems.",
+        "salary": "$80,000 - $120,000",
+        "location": "San Francisco, CA",
+        "job_hour": "Full Time",
+        "category": "Office"
+    },
+    {
+        "id": 6,
+        "title": "Web Developer",
+        "img": "/src/assets/logo/netflix.png",
+        "description": "Designs and implements web applications, including front-end and back-end development.",
+        "salary": "$60,000 - $100,000",
+        "location": "New York, NY",
+        "job_hour": "Full Time",
+        "category": "Onsite"
+    }
+]
